@@ -1,0 +1,8 @@
+- [首页](/Home)
+- 分类
+    - [机器](/Machines)
+    - [工具](/Tools)
+    - [防具](/Armors)
+    - [怪物](/Mobs)
+    - [其他](/Others)
+    - [幽灵方块](/Ghost-Blocks)
