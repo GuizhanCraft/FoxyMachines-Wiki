@@ -17,5 +17,5 @@ FoxyMachines 由 GallowsDove 制作，由 ybw0014 汉化，其非官方中文名
 - [工具](/Tools)
 - [武器](/Weapons)
 - [防具](/Armors)
-- [其他](/Others)
+- [杂项](/Materials)
 - [幽灵方块](/Ghost-Blocks)
