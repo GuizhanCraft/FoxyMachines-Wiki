@@ -5,7 +5,6 @@
 - 魔法结晶 - IV
 - 魔法结晶 - V
 - 强化线
-- [改进核心](/Improvement-Forge)
 - 稳定起泡砖
 - 力场引擎
 - 力场稳定器
@@ -32,8 +31,3 @@
 - [诅咒碎片](/Cursed-Sword#quests)
 - [天界碎片](/Celestial-Sword#quests)
 - 镇静宝石
-- [献祭黑石砖](/Sacrificial-Altar)
-- [献祭黑石楼梯](/Sacrificial-Altar)
-- [献祭黑石砖墙](/Sacrificial-Altar)
-- [献祭灵魂火把](/Sacrificial-Altar)
-- [献祭席](/Sacrificial-Altar)
