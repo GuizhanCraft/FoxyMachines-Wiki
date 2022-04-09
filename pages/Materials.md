@@ -21,13 +21,13 @@
 - 抗性胸甲框架
 - 火焰护腿框架
 - 轻盈之靴框架
-- [波塞冬的祝福](/Poseidons-Fishing-Rod)
+- [波塞冬的祝福](./Poseidons-Fishing-Rod)
 - 注血头颅
 - 纯净骨头
 - 纯净骨粉
 - 鲜血之桶
 - 精灵之粉
 - 邪恶之种
-- [诅咒碎片](/Cursed-Sword#quests)
-- [天界碎片](/Celestial-Sword#quests)
+- [诅咒碎片](./Cursed-Sword#quests)
+- [天界碎片](./Celestial-Sword#quests)
 - 镇静宝石

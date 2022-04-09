@@ -17,4 +17,4 @@
 
 ## 另请参阅
 
-- [远程控制器](/Remote-Controller)
+- [远程控制器](./Remote-Controller)

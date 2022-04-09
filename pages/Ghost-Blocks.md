@@ -8,7 +8,7 @@
 
 ## 移除
 
-需要使用[幽灵方块移除器](/Ghost-Block-Remover)来移除幽灵方块。
+需要使用[幽灵方块移除器](./Ghost-Block-Remover)来移除幽灵方块。
 
 ## 配置
 

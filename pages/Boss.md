@@ -6,10 +6,10 @@
 
 首领通过对应的刷怪蛋召唤。
 
-- [精灵女王](/Pixie-Queen)
-- [无头骑士](/Headless-Horseman)
+- [精灵女王](./Pixie-Queen)
+- [无头骑士](./Headless-Horseman)
 
 ## 掉落物
 
-- [精灵女王之心](/Pixie-Queen#drops)
-- [邪恶南瓜](/Headless-Horseman#drops)
+- [精灵女王之心](./Pixie-Queen#drops)
+- [邪恶南瓜](./Headless-Horseman#drops)

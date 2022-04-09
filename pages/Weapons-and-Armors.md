@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [治愈之弓](/Healing-Bow)
-- [锋利之弓](/Acri-Arcum)
-- [诅咒之剑](/Cursed-Sword)
-- [天界之剑](/Celestial-Sword)
-- [阐释者](/Elucidator)
+- [治愈之弓](./Healing-Bow)
+- [锋利之弓](./Acri-Arcum)
+- [诅咒之剑](./Cursed-Sword)
+- [天界之剑](./Celestial-Sword)
+- [阐释者](./Elucidator)
 - 水灵头盔
 - 抗性胸甲
 - 火焰护腿
